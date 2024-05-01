@@ -9,7 +9,7 @@ Dependencies: ROS-noetic, Python 3 (I used 3.8.10), RQt (usually installed along
 1. Clone this repository to your (Linux) machine and navigate to it
 2. Run the following command:
 
-    bash dashboard.bash /path/to/your/dashcam_video.mp4 /path/to/your/bag_file.bag your_offset_in_seconds
+    `bash dashboard.bash /path/to/your/dashcam_video.mp4 /path/to/your/bag_file.bag your_offset_in_seconds`
 
 3. Wait for the command to finish, making sure not to change the size of the RQt plugin window.
 
